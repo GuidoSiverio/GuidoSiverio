@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hola, soy Guido Siverio
 
-<!--
-**GuidoSiverio/GuidoSiverio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de cuarto año de Ingeniería en Sistemas en la **UTN** y actualmente trabajo como **Software Developer** en **Despegar**. Tengo una sólida base en desarrollo de software, con experiencia en proyectos Java utilizando **Maven** y **Spring**. También tengo conocimientos en desarrollo fullstack, con un enfoque en **React**.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías que manejo:
+- **Lenguajes**: Java, JavaScript
+- **Frameworks**: Spring, React
+- **Herramientas**: Maven, bases de datos SQL y NoSQL
+- **Metodologías**: Agile, TDD
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Mi filosofía:
+Estoy en constante crecimiento tecnológico y siempre abierto a aprender nuevas herramientas y lenguajes. Me apasiona resolver problemas y contribuir a proyectos innovadores.
+
+
